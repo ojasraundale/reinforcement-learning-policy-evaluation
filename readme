@@ -1,14 +1,4 @@
-# reinforcement-learning-policy-evaluation
-This repo contains a simulation of policy evaluation algorithm on a Stochastic Markov Decision Process. It is part of a the course COMPSCI 687: Reinforcement Learning. 
-A given policy $\pi(s,a)$ is chosen and the performance of that policy is estimated by running the agent on the environement. 
-
-We also randomly chose policies and test their performance. By searching in a sufficiently large set of policies, we can find an optimal policy. 
-
-
-## Requirements
-Need python on your machine to run this code. 
-
-## 
+Need python on your machine to run this code.
 
 To run the program, enter the following commands: 
 
@@ -31,4 +21,5 @@ A run of Q1 was generated and the results were stored in Gs.txt. These were used
 Similarly for Q2d, "Q2_stats.txt" were generated and used to plot the graphs. 
 
 "runs.txt" contains a few hundred thousand runs of the 1st policy which one may look if interested.
+
 
