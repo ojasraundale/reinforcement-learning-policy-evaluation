@@ -37,7 +37,7 @@ Line 2: All possible actions
 
 Line 3: Ending states
 
-Lines containing d_0: Initial Probability $d_0$(s) = Pr[$S_0$ = $s$]
+Lines containing d_0: Initial Probability $d_0$(s) = Pr [ $S_0$ = $s$ ]
 
 Lines containing p:     Transition Probability $p(s,a,s')$ = Pr[ $S_{t+1}$  = $s'$ | $S_t$ = $s$ , $A_t$ = $a$]
 
